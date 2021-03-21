@@ -1,0 +1,26 @@
+linterns:
+  enable:
+    - deadcode
+    - errcheck
+    - gosimple
+    - staticcheck
+    - unused
+    - gofmt
+    - goimports
+    - golint
+    - gomodguard
+    - goprintffuncname
+    - gosec
+    - noctx
+    - stylecheck
+    - whitespace
+    - structcheck
+    - typecheck
+    - varcheck
+    - asciicheck
+    - bodyclose
+    - gochecknoinits
+    - gocritic
+
+  disable:
+    - staticcheck
