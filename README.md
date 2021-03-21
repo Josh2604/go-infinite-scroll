@@ -1,4 +1,8 @@
 # Posts API
+
+## Frontend
+[Implementación con React](https://github.com/Josh2604/react-infinite-scroll)
+
 #### Features
 * Implementación de scroll infinito
 
